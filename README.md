@@ -1,2 +1,3 @@
 # Weather
-Weather checker using HTML, CSS, and js.
+
+Displays weather summary using HTML, CSS, and js

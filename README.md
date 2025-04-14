@@ -15,4 +15,4 @@ API key is securely stored in a `.env` file and only used server-side via the ba
 
 ## 📸 Screenshot
 
-![Weather app preview](screenshot.png)
+![Weather app preview](screenshot.PNG)
